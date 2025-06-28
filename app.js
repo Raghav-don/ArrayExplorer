@@ -44,7 +44,7 @@ function findPrime() {
 
 function Reverse() {
     getArray();
-
+    
     displayResult("Reversed Array: " + numbers.reverse());
 }
 
